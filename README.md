@@ -13,6 +13,8 @@ Built an ML-driven predictive maintenance system that predicts **machine failure
 - **Assumption-based downtime & cost impact simulation (Excel)**
 
 ## Dataset
+Model: Random Forest | PR-AUC: 0.857 | Threshold: 0.35
+Dashboard pages: Plant Overview, Asset Performance, Early Warning Queue, Failure Drivers, Downtime & Cost Impact
 AI4I 2020 Predictive Maintenance Dataset (10,000 rows, 14 columns).
 Target: `Machine failure` (0/1)
 
