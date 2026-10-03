@@ -1,5 +1,6 @@
 # predictive-maintenance-dashboard                      
-# AI-Based Predictive Maintenance & Downtime Risk Monitoring (HUL Supply Chain GET aligned)
+# AI-Based Predictive Maintenance & Downtime Risk Monitoring 
+
 
 ## Problem
 In FMCG manufacturing, unexpected machine breakdowns cause unplanned downtime, production loss, and delays in meeting the production plan. This impacts dispatch reliability (OTIF) and increases maintenance cost.
