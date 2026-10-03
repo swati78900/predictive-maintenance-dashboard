@@ -1,5 +1,5 @@
 # predictive-maintenance-dashboard                      
-# AI-Based Predictive Maintenance & Downtime Risk Monitoring 
+# AI/ML‑Based Predictive Maintenance & Downtime Risk Monitoring Dashboard
 
 
 ## Problem
